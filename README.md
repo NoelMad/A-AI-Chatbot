@@ -1,2 +1,2 @@
-# A-AI-Chatbot
-This project is a Java-based AI chatbot that interacts with users through text, responding to their inputs using simple rules or AI-powered respons
+# A Simple AI Chatbot in Java
+SmartChat is a Java-based chatbot application that allows users to have interactive conversations through the console
